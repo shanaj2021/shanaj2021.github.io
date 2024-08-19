@@ -1,15 +1,12 @@
 body {
   margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #8f5c5c;
 
 
 }
 
 .home_image {
-
-
-background-image: url("./images/homes.png");
+ background-image: url("images/homes.png");
   background-color: #8f5c5c;
   height: auto;
   background-position: center;
